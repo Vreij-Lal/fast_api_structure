@@ -1,1 +1,1 @@
-# fast_api_structure
+# 🐍 Python FastAPI Clean Architecture Project Template
